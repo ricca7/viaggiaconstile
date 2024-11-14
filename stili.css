@@ -1,0 +1,34 @@
+/* Stile per il bottone */
+.maggiori-info-btn {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #f39c12;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+.maggiori-info-btn:hover {
+    background-color: #e67e22;
+}
+
+/* Stile per la sezione dei dettagli */
+.dettagli {
+    margin-top: 10px;
+    padding: 15px;
+    background-color: #ecf0f1;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.dettagli strong {
+    color: #e74c3c;
+}
+
+img{
+ width: 300px;
+ height: 300px;
+}
